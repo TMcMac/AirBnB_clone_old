@@ -2,13 +2,13 @@
 
 ## Resources:books:
 Read or watch:
-* [cmd module](https://intranet.hbtn.io/rltoken/Fx9HXIjmGzbmET4ylYg2Rwi)
+* [cmd module](https://docs.python.org/3.4/library/cmd.html)
 * [packages](https://intranet.hbtn.io/rltoken/jKl9WFpKA-fPt7_guv9_3Q)
-* [uuid module](https://intranet.hbtn.io/rltoken/eaQ6aELbdqb0WmPddhD00g)
-* [datetime](https://intranet.hbtn.io/rltoken/_ySDcgtfrwLkTyQzYHTH0Q)
-* [unittest module](https://intranet.hbtn.io/rltoken/QX7d4D__xhOJIGIWZBp39g)
-* [args/kwargs](https://intranet.hbtn.io/rltoken/jQd3P_uSO0FeU6jlN-z5mg)
-* [Python test cheatsheet](https://intranet.hbtn.io/rltoken/WPlydsqB0PG0uVcixemv9A)
+* [uuid module](https://docs.python.org/3.4/library/uuid.html)
+* [datetime](https://docs.python.org/3.4/library/datetime.html)
+* [unittest module](https://docs.python.org/3.4/library/unittest.html#module-unittest)
+* [args/kwargs](https://yasoob.me/2013/08/04/args-and-kwargs-in-python-explained/)
+* [Python test cheatsheet](https://www.pythonsheets.com/notes/python-tests.html)
 
 ---
 ## Learning Objectives:bulb:
